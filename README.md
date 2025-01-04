@@ -1,4 +1,4 @@
-### README: GrowData Sensor Visualisation
+### GrowData Sensor Visualisation
 
 ---
 
